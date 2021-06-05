@@ -1,5 +1,9 @@
+body{
+    font-family: "Montserrat";
+}
 #title{
     background-color:#ff5050;
+    color: white;
 }
 h1{
     font-family: 'Montserrat', sans-serif;
