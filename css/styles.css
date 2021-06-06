@@ -7,10 +7,32 @@ body{
 }
 h1{
     font-family: 'Montserrat', sans-serif;
-    font-size: 3rem;
+    font-size: 3em;
     line-height: 1.5;
+    padding-top: 120px;
+    
 }
 .container-fluid{
     padding: 3% 35%;
-    
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size : 30px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.nav-item{
+    padding:0 18px;
+}
+.nav-link{
+   font-size:1.2rem;
+}
+.download{
+    margin: 5% 3% 5% 0;
+}
+.phone-image{
+    width:40%;
 }
