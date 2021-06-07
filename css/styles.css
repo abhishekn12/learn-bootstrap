@@ -51,13 +51,12 @@ p{
 }
 .phone-image{
     width:35%;
-    position: absolute;
+   
 }
 #features{
     padding: 7% 15%;
     background-color: white;
-    position: relative;
-    z-index: 1;
+    
 }
 .features{
     text-align: center;
@@ -100,5 +99,5 @@ p{
     text-align: center;
 }
 .pricing-column{
-    padding: 3% 2%;
+    padding: 3% 2% 3% 2%;
 }
