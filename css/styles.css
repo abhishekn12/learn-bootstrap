@@ -3,24 +3,22 @@ body{
 }
 #title{
     background-color:#ff5050;
-    color: white;
-    
+    color: white;    
 }
-
-h1{
+h1,h2,h3{
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+h1{ 
     font-size: 3em;
     line-height: 1.5;
     padding-top: 120px;
 }
 h2{
-    font-family:"Montserrat";
-    font-weight: bold;
     font-size: 3rem;
     line-height: 1.5;
 }
 h3{
-    font-family: "Montserrat";
     font-weight: bold;  
 }
 p{
