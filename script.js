@@ -16,6 +16,6 @@ console.log(name.slice(2,7))
 console.log("abhishek");
 
 var rand = Math.random();
-rand = Math.floor(rand *6);
+rand = Math.floor(rand *6)+1;
 console.log(rand);
     
