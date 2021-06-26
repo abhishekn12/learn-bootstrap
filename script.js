@@ -14,4 +14,8 @@ console.log(name.length)
 console.log(name.slice(0,4))
 console.log(name.slice(2,7))
 console.log("abhishek");
+
+var rand = Math.random();
+rand = Math.floor(rand *6);
+console.log(rand);
     
